@@ -1,0 +1,16 @@
+{
+  "name": "angular",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alexjpaz/boilerplate",
+  "authors": [
+    "Alex Paz <alexander.j.paz@ngc.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
