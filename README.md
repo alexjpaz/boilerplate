@@ -1,4 +1,5 @@
-boilerplate
-===========
+# boilerplate-python
 
-Boilerplate projects. Where Gists aren't enough.
+## Goal
+
+Python boilerplate project that only uses standard 2.7+ libraries.
